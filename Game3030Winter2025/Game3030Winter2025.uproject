@@ -14,6 +14,11 @@
 		{
 			"Name": "AchievementSystem",
 			"Enabled": true
+		},
+		{
+			"Name": "CompleteSaveSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher:\n//ue/marketplace/product/22081ee01b49485bb15cfdd6dd097f65"
 		}
 	]
 }
